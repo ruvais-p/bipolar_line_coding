@@ -41,9 +41,6 @@ Then, input a binary sequence when prompted, and the program will generate visua
 ## Example Output
 When entering the sequence `1010000000`, the program generates step plots for each encoding method, showing their respective signal levels.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 ruvais-p
 
